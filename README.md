@@ -1,4 +1,5 @@
-# VideoShop_AI:
+🚀 About the Project
+
 Windowshop.ai is an innovative AI-driven fashion application that allows users to visualize clothing on themselves or models without physically trying them on. By combining the power of Stable Diffusion, CLIP, and OpenCV, the app offers a virtual try-on experience where users can generate realistic images of how they'd look wearing specific outfits—just from text prompts or uploaded images.
 
 This project bridges the gap between e-commerce and experiential shopping, helping users make smarter fashion choices by seeing AI-generated outfit previews tailored to their body or style preference.
